@@ -1,0 +1,27 @@
+:root {
+  --cell-size: 100px;
+  --cell-quantity: 3;
+}
+
+body {
+  background-color: #d8d7d0;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app__title {
+  display: flex;
+  justify-content: center;
+}
+/* .settings {
+  display: flex;
+}
+.gameMode {
+  display: flex;
+} */
+
